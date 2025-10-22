@@ -21,3 +21,8 @@ Functions:
 - ena_arm_func(): Generates EARN plots for each group or condition
 
 - ena_arm_func_diff(): Generates difference plots comparing EARN structures between pairs of groups
+
+You can install the rENA package using the following command:
+install.packages("rENA", repos = c("https://cran.qe-libs.org", "https://cran.rstudio.org"))
+
+If you have additional issues installing it, please contact afzambrano@gmail.com
