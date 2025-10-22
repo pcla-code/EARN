@@ -17,6 +17,7 @@ To use EARN:
   4) Define model parameters: rotation groups, moving window size, and threshold
 
 
+Functions: 
 - ena_arm_func(): Generates EARN plots for each group or condition
 
 - ena_arm_func_diff(): Generates difference plots comparing EARN structures between pairs of groups
